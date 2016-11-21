@@ -1,10 +1,9 @@
-StackOverflow Fixed Menu
+Teamwork Hide Columns
 ========================
 
-A simple Chrome extension to fix the Stack Overflow menu at the top of the browser.  
-Allows you to respond to and see responses to questions quicker, search from anywhere 
-on the page and switch communities on the fly.  Now works on most Stack Overflow sites,
-with the notable exceptions of askubuntu and careers.
+A simple Chrome extension to hide the unnecessary columns in TeamWork for printing.
+Also adds a fixed width to the task column so that it is better spaced.  This plugin
+is mostly to save pages when printing.
 
 To install:
 -----------
